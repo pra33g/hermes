@@ -13,5 +13,5 @@ Even ASCII animations have been hardcoded (for loops and stuff).
 
 You can run this code (here)[https://www.onlinegdb.com/online_c++_compiler] 
 
-Project Snaps:
+Project Snaps: (Earlier the project was named MYSPACEBOOK)
 https://imgur.com/a/RGouN6a
