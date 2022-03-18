@@ -13,3 +13,5 @@ Even ASCII animations have been hardcoded (for loops and stuff).
 
 You can run this code (here)[https://www.onlinegdb.com/online_c++_compiler] 
 
+Project Snaps:
+https://imgur.com/a/RGouN6a
