@@ -11,10 +11,24 @@ Without any structured software design pattern and with the whole code only resi
 I used OOPS and procedure other oriented paradigms while relying heavily on polymorphism (Example: load() with different messages).
 Even ASCII animations have been hardcoded (for loops and stuff).
 
-You can run this code (here)[https://www.onlinegdb.com/online_c++_compiler] 
+### Features
+<ul>
+  <li>User login</li>
+  <li>Admin Panel</li>
+  <li>Send messages to participants</li>
+  <li>Read your messages</li>
+  <li>View your information (Name, username, DOB etc)</li>
+</ul>
 
-Project Snaps: (Earlier the project was named MYSPACEBOOK later renamed to HERMES)
+You can run this code [here](https://www.onlinegdb.com/online_c++_compiler)
 
+Project Snaps: (Early name MYSPACEBOOK; later renamed to HERMES)
+
+#### Logging in and sending message DEMO:
+
+![Image](https://i.imgur.com/KVHbFwK.gif)
+
+More pics [here](https://imgur.com/a/03zunV5) 
 
 Old pics:
 https://imgur.com/a/RGouN6a
