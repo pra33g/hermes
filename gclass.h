@@ -266,9 +266,9 @@ void user::readm()
 //non-class utility functions
 void onlyheading()
 {
-    cout<<"https://facebook.com";
-    cout<<"\n\t\t\t\t   FACEBOOK!";
-    cout<<"\n\n\t\t\t      Your Virtual Life!\n\n\n";
+    cout<<"https://hermes.com";
+    cout<<"\n\t\t\t\t   HERMES!";
+    cout<<"\n\n\t\t\t      Lightning fast!\n\n\n";
 }
 int choice()
 {
@@ -332,9 +332,9 @@ void load(int choice)
 void heading()
 {
     load(1);
-    cout<<"https://facebook.com";
-    cout<<"\n\t\t\t\t   FACEBOOK!";
-    cout<<"\n\n\t\t\t      Your Virtual Life!\n\n\n";
+    cout<<"https://hermes.com";
+    cout<<"\n\t\t\t\t   HERMES!";
+    cout<<"\n\n\t\t\t      Lightning Fast!\n\n\n";
 }
 //program structure functions
 void settings()
