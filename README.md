@@ -6,7 +6,7 @@ A basic chat system could be implemented using public folders of the users, with
 
 Messaging functionality on same pc was developed, the latter part (cross PCs) was never though.
 
-I used OOPS and procedure other oriented paradigms while relying heavily on polymorphism (Example: load() with different messages).
+I used OOPS and other procedure oriented paradigms while relying heavily on polymorphism (Example: load() with different messages).
 Even ASCII animations have been hardcoded (for loops and stuff).
 
 ### Features
