@@ -6,8 +6,6 @@ A basic chat system could be implemented using public folders of the users, with
 
 Messaging functionality on same pc was developed, the latter part (cross PCs) was never though.
 
-Without any structured software design pattern and with the whole code only residing in my mind, the project got out of hand really quickly. 
-
 I used OOPS and procedure other oriented paradigms while relying heavily on polymorphism (Example: load() with different messages).
 Even ASCII animations have been hardcoded (for loops and stuff).
 
