@@ -1,7 +1,7 @@
 # hermes
 Computer science project, 12th grade. (Appx. 2 months)
 
-Written on Turbo C++, I envisioned it to be a messaging system, where users connected on LAN could text each other.
+Written on Turbo C++. Was envisioned to be a messaging system, where users connected on LAN could text each other.
 A basic chat system could be implemented using public folders of the users, with messages being stored in text files.
 
 Messaging functionality on same pc was developed, the latter part (cross PCs) was never though.
